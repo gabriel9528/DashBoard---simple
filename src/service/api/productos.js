@@ -29,3 +29,4 @@ const updateProduct = async (id, body) => {
 };
 
 export { addProduct, deleteProduct, updateProduct };
+//este es un cambio de prueba
